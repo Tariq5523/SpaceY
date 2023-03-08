@@ -1,5 +1,5 @@
 # SpaceY 
-This repository is for a project called SpaceY. SpaceY is fake startup company that competes with SpaceX with the aim of decreasing the cost of landing the first stage of a rocket. 
+This repository is for the final project of the IBM Data Science Professional Certificate SpaceY. SpaceY is fake startup company that competes with SpaceX with the aim of decreasing the cost of landing the first stage of a rocket. 
 
 
 Project Backgorund:
