@@ -12,3 +12,14 @@ Questions to answer:
 - The interaction amongst various features that determine the success rate of a successful landing.
 
 - What operating conditions needs to be in place to ensure a successful landing program?
+
+
+Summary of methodologies:
+
+- Data Collection through API
+- Data Collection with Web Scraping
+- Data Wrangling
+- Exploratory Data Analysis with SQL
+- Exploratory Data Analysis with Data Visualization
+- Interactive Visual Analytics with Folium
+- Machine Learning Prediction
